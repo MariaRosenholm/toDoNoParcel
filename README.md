@@ -11,3 +11,7 @@ Please use npm command in the bash!
 
 ![Screenshot of the application empty](Teese.png)
 ![Screenshot of the application in use](Taytetty.png)
+
+## Deployed
+
+https://sad-lamport-666448.netlify.app/
